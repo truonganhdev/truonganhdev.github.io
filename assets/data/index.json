@@ -1,0 +1,93 @@
+{
+  "name": "Trường Anh",
+  "social": {
+    "telegram": "https://t.me/hplta",
+    "fb": "https://www.facebook.com/huynhtienpage",
+    "instagram": "https://www.instagram.com/hplta710",
+    "skype": "https://join.skype.com/invite/tcWRGUUXgbBV",
+    "linkedin": "https://www.linkedin.com/in/hu%E1%BB%B3nh-ph%C3%BAc-l%C3%A2m-tr%C6%B0%E1%BB%9Dng-anh-b74142277"
+  },
+  "about": {
+    "quote": "God may favor some people and make them luckier than others... Don't be sad! If you're not granted, then just take matters into your own hands!",
+    "position": "Fullstack Developer.",
+    "quote1": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Brian W. Kernighan",
+    "birthday": "27 OCT",
+    "year": "1998",
+    "website": "https://tya-technologies.github.io",
+    "degree": "Engineer",
+    "phone": "+8434 969 3355",
+    "phEmailone": "truonganh710@gmail.com",
+    "city": "Ho Chi Minh City, Vietnam",
+    "company": "Eximbank Vietnam",
+    "quote2": "Software development is like writing a book: You start by creating a script, you add stories and characters, you correct grammar errors, and you meticulously edit word by word until you have a great story. However, in software, you always have to rewrite stories and add new pages as needed. - Steve McConnell, author of Code Complete.",
+    "facts": {
+      "quote": "It takes great pains to benefit. His needs result from something that actually drives him away. Let them be what they want. Anyone whom anyone desires. And no one who hinders receives the others. Because he should flee in this office of convenience, which is here."
+    },
+    "skills": {
+      "quote": "It takes great pains to benefit. His needs result from something that actually drives him away. Let them be what they want. Anyone whom anyone desires. And no one who hinders receives the others. Because he should flee in this office of convenience, which is here."
+    }
+  },
+  "resume": {
+    "quote": "God may favor some people and make them luckier than others... Don't be sad! If you're not granted, then just take matters into your own hands!",
+    "sumary": {
+      "data1": "TRUONG ANH DEV",
+      "data2": "Full stack programmer for web applications, mobile apps, desktop applications; Providing software solutions, handling process software.",
+      "data3": [
+        "Ho Chi Minh City, Vietnam",
+        "(84) 34 969 3355",
+        "truonganh710@gmail.com"
+      ]
+    },
+    "education": {
+      "data1": "INFORMATION TECHNOLOGY ENGINEER",
+      "data2": "2016 - 2020",
+      "data3": "An Giang University, Ho Chi Minh City National University",
+      "data4": "Information Technology (IT) is a field related to the use of computers and technology to process and manage information. It plays a crucial role in our daily lives, connecting people through the Internet, providing various applications and services, and having a significant impact on research and development. The IT industry is rapidly evolving, offering numerous career opportunities."
+    },
+    "professionalExperience": {
+      "data": [
+        {
+          "item1": "FULLSTACK DEVELOPER - EXIMBANK VIETNAM",
+          "item2": "12/2022 - Present",
+          "item3": "Ho Chi Minh City, Vietnam",
+          "item4": [
+            "- Build functional APIs and internal applications.",
+            "- Develop existing applications.",
+            "- Develop more functions of the BPM system."
+          ]
+        },
+        {
+          "item1": "PROGRAMMING INSTRUCTOR - MARATHON EDUCATION",
+          "item2": "05/2023 - Present",
+          "item3": "Ho Chi Minh City, Vietnam",
+          "item4": [
+            "- Teaching web programming and cross-platform applications.",
+            "- NODEJS, HTML, CSS, JS."
+          ]
+        },
+        {
+          "item1": "FULLSTACK DEVELOPER - DITAGIS CENTER",
+          "item2": "08/2020 - 12/2022",
+          "item3": "Ho Chi Minh City, Vietnam",
+          "item4": [
+            "- Building a web application to manage the water supply network in District 4 - City. Ho Chi Minh.",
+            "- Write documents for Website.",
+            "- Prepare weekly progress reports."
+          ]
+        },
+        {
+          "item1": "INTERN - DITAGIS CENTER",
+          "item2": "02/2020 - 04/2020",
+          "item3": "Ho Chi Minh City, Vietnam",
+          "item4": [
+            "- Build web/mobile/desktop applications with GIS technology.",
+            "- Analyze and design Database.",
+            "- System analysis and design.",
+            "- Build software development process.",
+            "- Write documents and topics for software."
+          ]
+        }
+      ]
+    }
+  }
+}
